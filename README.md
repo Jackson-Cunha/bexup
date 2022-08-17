@@ -3,9 +3,9 @@ teste
 
 Primeiro npm install para gerar o diretório node_modules
 
-Executar o projeto com npm run dev
+Executar o projeto com: npm run dev
 
-dependencias: 
+dependências: 
 
 body-parser
 express
