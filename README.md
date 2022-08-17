@@ -1,7 +1,7 @@
 # bexup
 teste
 
-Primeiro npm install para gerar o diretório node_modules
+Primeiro executar: npm install para gerar o diretório node_modules
 
 Executar o projeto com: npm run dev
 
